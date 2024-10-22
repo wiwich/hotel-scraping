@@ -5,22 +5,8 @@ This project involves developing a web scraper to extract data about hotels from
 
 **Libraries:**
  - **BeautifulSoup:** A library for parsing HTML and extracting data in a structured way.
-- **Selenium:** A web automation tool for handling dynamic content and JavaScript-loaded elements.
+ - **Selenium:** A web automation tool for handling dynamic content and JavaScript-loaded elements.
  - **Requests:** A library for sending HTTP requests and retrieving web pages.
  - **ChromeDriver** is used to configure the ChromeDriver service.
  - **Pandas:** for data manipulation and analysis.
-
-## Scraping Process
-**1. Setup**
-- Install necessary libraries
-  ```
-  !pip install bs4 requests selenium
-  ```
-- Configure web driver for Selenium (e.g. ChromeDriver).
-  ```
-  # set chrome diver path
-  CHROMEDRIVER_PATH = r"C:\<path>\chromedriver.exe"
-  ```
-**2. Fetching Data**
-**3. Parsing HTML**
 
