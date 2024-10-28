@@ -10,3 +10,5 @@ This project involves developing a web scraper to extract data about hotels from
  - **ChromeDriver** is used to configure the ChromeDriver service.
  - **Pandas:** for data manipulation and analysis.
 
+![image](https://github.com/user-attachments/assets/9c02b561-bcba-4084-bbe9-a41870f29d30)
+
